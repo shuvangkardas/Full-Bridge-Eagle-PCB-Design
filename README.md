@@ -17,8 +17,10 @@
 
 This repository is the official PCB of my paper [Design and Hardware Implementation Considerations of Modified Multilevel Cascaded H-Bridge Inverter for Photovoltaic System](https://www.researchgate.net/publication/329921455_Design_and_Hardware_Implementation_Considerations_of_Modified_Multilevel_Cascaded_H-Bridge_Inverter_for_Photovoltaic_System) we published in 2019.
 
-## Circuit
-## Schematic
+## Schematic and PCB
+Here is the schematic and PCB of H-bridge circuit
+![H-Bridge Circit](./Resources/Full%20bridge%20schematic.png)
+![H-Bridge PCB](./Resources/Full%20bridge%20pcb.png)
 
 
 
