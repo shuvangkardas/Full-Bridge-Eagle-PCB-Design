@@ -17,6 +17,10 @@
 
 This repository is the official PCB of my paper [Design and Hardware Implementation Considerations of Modified Multilevel Cascaded H-Bridge Inverter for Photovoltaic System](https://www.researchgate.net/publication/329921455_Design_and_Hardware_Implementation_Considerations_of_Modified_Multilevel_Cascaded_H-Bridge_Inverter_for_Photovoltaic_System) we published in 2019.
 
+**Special features of the design are**
+- Completely modular design. The H-bridge and driver circuits are completely modular. 
+- I have included 2 types of driver circuit. The driver circuits are similar design so that these can be connected and disconected with the H-bridge in easy ways. 
+
 ## Schematic and PCB
 Here is the schematic and PCB of H-bridge circuit
 ![H-Bridge Circit](./Resources/Full%20bridge%20schematic.png)
