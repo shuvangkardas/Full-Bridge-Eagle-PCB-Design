@@ -22,7 +22,9 @@ Here is the schematic and PCB of H-bridge circuit
 ![H-Bridge Circit](./Resources/Full%20bridge%20schematic.png)
 ![H-Bridge PCB](./Resources/Full%20bridge%20pcb.png)
 
-
+I have included few types of driver circuit with the project. The driver circuits are modular design on the top of the H-bridge. Here is the IR2111 driver circuit. This circuit is optically isolated. 
+![IR2111 Circuit](./Resources/IR2111%20Opto%20Driver%20Schematic.png)
+![IR2111 PCB](./Resources/IR2111%20Isolated%20Driver%20PCBboth%20.png)
 
 # How to cite the paper
 If you use the driver circuits and PCB design for your research, please cite publication as follow:
